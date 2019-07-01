@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_InstalledNozzle/templates *
+recursive-include octoprint_InstalledNozzle/translations *
+recursive-include octoprint_InstalledNozzle/static *
